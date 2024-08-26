@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Shopping Cart",
+    "imageSrc": "projects/foodorder.png",
+    "description": "A Food Items shopping cart project that allows users to add items and increment quantities with ease.",
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "Javascript"
+    ]
+  },
+  {
+    "title": "E Comerce Website Saree Shop",
+    "imageSrc": "projects/sareeorder.png",
+    "description":"elegance of sarees with our website,where you can see quality of sarees and offering curated selections,and effortless shopping from the comfort of your home." ,
+    "skills": [
+      "React.js",
+      "HTML5",
+      "CSS3"
+    ]
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "An innovative portfolio showcasing my skills, projects, and  with a sleek design and intuitive navigation, reflecting my unique professional journey and creative prowess.",
+    "skills": [
+      "React.js",
+      "HTML5",
+      "CSS3"
+    ]
+  }
+]
